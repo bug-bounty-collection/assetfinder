@@ -8,10 +8,10 @@ Find domains and subdomains potentially related to a given domain.
 If you have Go installed and configured (i.e. with `$GOPATH/bin` in your `$PATH`):
 
 ```
-go get -u github.com/tomnomnom/assetfinder
+go install github.com/bug-bounty-collection/assetfinder@latest
 ```
 
-Otherwise [download a release for your platform](https://github.com/tomnomnom/assetfinder/releases).
+Otherwise [download a release for your platform](https://github.com/bug-bounty-collection/assetfinder/releases).
 To make it easier to execute you can put the binary in your `$PATH`.
 
 ## Usage
